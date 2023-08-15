@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/enzoferrari1/TP-FCD/blob/main/README.md)
+
 # Trabajo Práctico - Fundamentos de Ciencias de Datos
 Trabajo final de la asignatura Fundamentos de Ciencias de Datos de la carrera TUIA.
 ## Descripción
