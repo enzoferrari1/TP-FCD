@@ -4,7 +4,7 @@
 Final project for the subject Fundamentals of Data Science within the TUIA program.
 
 ## Description
-The project is focused on the implementation of multiple linear regression on a selected dataset, as well as the exploration and search for correlations among the variables in the dataset. You must choose a numerical dependent variable of interest and multiple independent variables, which can be both categorical and numerical.
+The project is focused on the implementation of multiple linear regression on a selected dataset, as well as the exploration and search for correlations among the variables in the dataset. A numerical dependent variable of interest and multiple independent variables, which can be both categorical and numerical, need to be chosen.
 
 # Motivation
 The chosen dataset consists of records of sales for German cars, including mileage, price, year, engine displacement, transmission type, among others.
