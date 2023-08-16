@@ -16,3 +16,6 @@ Se incluyen las consignas del TP y el dataset en el resto de archivos del reposi
 Luego de analizar el dataset se concluye que un modelo de regresión lineal puede no ser el adecuado. Para más detalle, consultar el notebook.
 
 
+## Imágenes
+![image](https://github.com/enzoferrari1/TP-FCD/assets/109885056/de319740-5696-4947-aee7-5ad633046277)
+![image](https://github.com/enzoferrari1/TP-FCD/assets/109885056/a5d66c5f-c72f-49c3-8c49-0937b16da1b9)
