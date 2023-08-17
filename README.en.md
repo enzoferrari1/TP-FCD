@@ -1,4 +1,4 @@
-[![es](https://img.shields.io/badge/lang-es-aquamarine.svg)](https://github.com/enzoferrari1/TP-FCD/blob/main/README.es.md)
+[![es](https://img.shields.io/badge/lang-es-aquamarine.svg)](https://github.com/enzoferrari1/TP-FCD/blob/main/README.md)
 
 # Project - Fundamentos de Ciencias de Datos
 Final project for the subject Fundamentos de Ciencias de Datos in the TUIA program.
